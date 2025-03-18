@@ -1,0 +1,2 @@
+# Pasta de imagens  
+Aqui estão os screenshots do dashboard.
