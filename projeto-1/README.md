@@ -17,3 +17,9 @@ Nosso Dashboard deve responder as seguintes perguntas:
 • Pergunta 5 - Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
 
 O Dashboard também deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento, e por país.
+
+**Dados:** Base fictícia de vendas de uma empresa com atuação global.  
+
+🔧 **Ferramentas:** Base de dados em CSV e Power BI  
+
+📉 **Principais Insights:**  
